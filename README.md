@@ -6,6 +6,7 @@
 - 💞️ I’m looking to collaborate on Machine Learning
 - 📫 How to easily reach me? With your hand or antineutrinomuon@gmail.com, jean@astro.up.pt
 
+- <a href='https://anaconda.org/neutrinomuon'>anaconda.org/neutrinomuon</a>
 
 ## Projects Published
 
