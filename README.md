@@ -21,6 +21,8 @@
 
 ## Stats
 
+![Snake animation](https://github.com/neutrinomuon/neutrinomuon/blob/output/github-contribution-grid-snake.svg)
+
 ![neutrinomuon's GitHub stats](https://github-readme-stats.vercel.app/api?username=neutrinomuon&hide=contribs,prs)
 
 <!---
