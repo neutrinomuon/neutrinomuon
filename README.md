@@ -18,8 +18,8 @@
 
 - ![https://twitter.com/jean_m_gomes](https://img.shields.io/twitter/follow/jean_m_gomes?style=social)
 - [LinkedIn](https://www.linkedin.com/in/jean-michel-gomes/)
-- [Website](https://spectralsynthesis.org)
-- [Website](https://python.spectralsynthesis.org)
+- [Spectral Synthesis](https://spectralsynthesis.org)
+- [Python Scripts](https://python.spectralsynthesis.org)
 
 ## Stats
 
