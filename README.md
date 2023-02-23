@@ -19,8 +19,8 @@
 
 ## Connect with me
 
-- ![https://twitter.com/jean_m_gomes](https://img.shields.io/twitter/follow/jean_m_gomes?style=social)
-- ![https://www.linkedin.com/in/jean-michel-gomes/](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+- <a href='https://twitter.com/jean_m_gomes'>![https://twitter.com/jean_m_gomes](https://img.shields.io/twitter/follow/jean_m_gomes?style=social)</a>
+- <a href='https://www.linkedin.com/in/jean-michel-gomes/'>![https://www.linkedin.com/in/jean-michel-gomes/](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 - [Spectral Synthesis](https://spectralsynthesis.org)
 - [Python Scripts](https://python.spectralsynthesis.org)
 
