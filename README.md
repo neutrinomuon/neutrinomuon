@@ -17,6 +17,11 @@
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
+## Top Programming Languages
+
+<p align="center">
+<img alt="Programming Languages"src='https://github-readme-stats.vercel.app/api/top-langs/?username=neutrinomuon&hide=Ruby,Jupyter%20Notebook,Makefile,sed,Assembly'>
+</p>
 
 ## Projects Published
 
