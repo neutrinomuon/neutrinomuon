@@ -40,9 +40,10 @@
 
 ![Snake animation](https://github.com/neutrinomuon/neutrinomuon/blob/output/github-contribution-grid-snake.svg)
 
-
-![neutrinomuon's GitHub stats](https://github-readme-stats.vercel.app/api?username=neutrinomuon&hide=contribs,prs)
-
+<p align='center'>
+<img src='https://github-readme-stats.vercel.app/api?username=neutrinomuon&hide=contribs,prs' alt='neutrinomuon's GitHub stats'>
+</p>
+                                                                                                                                
 <!---
 neutrinomuon/neutrinomuon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
