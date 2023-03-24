@@ -38,10 +38,12 @@
 
 ## Stats
 
-![Snake animation](https://github.com/neutrinomuon/neutrinomuon/blob/output/github-contribution-grid-snake.svg)
+<p align='center'>
+<img src='https://github.com/neutrinomuon/neutrinomuon/blob/output/github-contribution-grid-snake.svg'>
+</p>
 
 <p align='center'>
-<img src='https://github-readme-stats.vercel.app/api?username=neutrinomuon&hide=contribs,prs' alt='neutrinomuon's GitHub stats'>
+<img src='https://github-readme-stats.vercel.app/api?username=neutrinomuon&hide=contribs,prs' alt="neutrinomuon's GitHub stats">
 </p>
                                                                                                                                 
 <!---
