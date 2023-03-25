@@ -1,4 +1,4 @@
-## Brief Description
+## <img width=25 src='https://user-images.githubusercontent.com/8226984/227712105-a9bdb9d1-62a8-400c-bc2d-4723de5f4e52.png'> Brief Description
 
 - 👋 Hi, I’m @neutrinomuon - Jean Michel Silva de Miranda Gomes
 - 👀 I’m interested in Extragalactic Astrophysics and Computational Sciences
@@ -17,19 +17,19 @@
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-## Top Programming Languages on My Repos
+## <img width=25 src='https://user-images.githubusercontent.com/8226984/227711634-f9943192-2b39-4f8f-921a-00d6821fc7a9.png'> Top Programming Languages on My Repos
 
 <p align="center">
 <img alt="Programming Languages"src='https://github-readme-stats.vercel.app/api/top-langs/?username=neutrinomuon&hide=Ruby,Jupyter%20Notebook,Makefile,sed,Assembly'>
 </p>
 
-## Projects Published
+## <img width=25 src='https://user-images.githubusercontent.com/8226984/227711470-7284ef27-d818-4fb0-8a94-548eb734166e.jpg'> Projects Published
 
 - 📘 [Package 1](https://github.com/neutrinomuon/IntegralALL): <b>IntegralALL</b> is a software package that provides a suite of numerical integration methods for a wide range of applications in physics, engineering, and mathematics.
 - 📘 [Package 2](https://github.com/neutrinomuon/FluxConserving): <b>FluxConserving</b> is a Python package that provides an implementation of a flux-conserving algorithm for rebinning 1D spectra, ensuring that the total flux is conserved across different bins.
 - 📘 [Package 3](https://github.com/neutrinomuon/PyKinematicalBroadening): <b>PyKinematicalBroadening</b> is a Python package that implements kinematical broadening of an input spectrum in velocity space.
 
-## Connect with me
+## <img width=25 src='https://user-images.githubusercontent.com/8226984/227711181-657e2c9a-5f32-48e0-b618-a922c4fb10d4.png'>Connect with me
 
 - <a href='https://twitter.com/jean_m_gomes'>![https://twitter.com/jean_m_gomes](https://img.shields.io/twitter/follow/jean_m_gomes?style=social)</a>
 - <a href='https://www.linkedin.com/in/jean-michel-gomes/'>![https://www.linkedin.com/in/jean-michel-gomes/](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
