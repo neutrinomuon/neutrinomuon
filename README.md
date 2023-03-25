@@ -36,7 +36,7 @@
 - [Spectral Synthesis](https://spectralsynthesis.org)
 - [Python Scripts](https://python.spectralsynthesis.org)
 
-## Stats
+## 📈 Stats
 
 <p align='center'>
   <img src='https://raw.githubusercontent.com/neutrinomuon/neutrinomuon/output/github-contribution-grid-snake.svg'>
