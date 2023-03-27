@@ -19,9 +19,9 @@
 
 ## <img width=25 src='https://user-images.githubusercontent.com/8226984/227711634-f9943192-2b39-4f8f-921a-00d6821fc7a9.png'> Top Programming Languages on My Repos
 
-<p align="center">
-<img alt="Programming Languages"src='https://github-readme-stats.vercel.app/api/top-langs/?username=neutrinomuon&hide=Ruby,Jupyter%20Notebook,Makefile,sed,Assembly'>
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neutrinomuon)
+
+<!---  <img alt="Programming Languages"src='https://github-readme-stats.vercel.app/api/top-langs/?username=neutrinomuon&hide=Ruby,Jupyter%20Notebook,Assembly'> --->
 
 ## <img width=25 src='https://user-images.githubusercontent.com/8226984/227711470-7284ef27-d818-4fb0-8a94-548eb734166e.jpg'> Projects Published
 
@@ -44,7 +44,7 @@
 </p>
 
 <p align='center'>
-<img src='https://github-readme-stats.vercel.app/api?username=neutrinomuon&hide=contribs,prs' alt="neutrinomuon's GitHub stats">
+<img src='https://github-readme-stats.vercel.app/api?username=neutrinomuon' alt="neutrinomuon's GitHub stats">
 </p>
                                                                                                                                 
 <!---
