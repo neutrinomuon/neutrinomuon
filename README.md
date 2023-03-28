@@ -19,7 +19,7 @@
 
 ## <img width=25 src='https://user-images.githubusercontent.com/8226984/227711634-f9943192-2b39-4f8f-921a-00d6821fc7a9.png'> Top Programming Languages on My Repos
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neutrinomuon)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neutrinomuon&show_icons=true&theme=radical&count_private=true&hide=ruby,jupyter%20notebook,sed,makefile,assembly,html)
 
 <!---  <img alt="Programming Languages"src='https://github-readme-stats.vercel.app/api/top-langs/?username=neutrinomuon&hide=Ruby,Jupyter%20Notebook,Assembly'> --->
 
