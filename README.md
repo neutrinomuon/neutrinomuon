@@ -25,8 +25,8 @@
 
 ## <img width=25 src='https://user-images.githubusercontent.com/8226984/227711470-7284ef27-d818-4fb0-8a94-548eb734166e.jpg'> Projects Published
 
-- 📘 [Package 1](https://github.com/neutrinomuon/IntegralALL): <b>IntegralALL</b> is a software package that provides a suite of numerical integration methods for a wide range of applications in physics, engineering, and mathematics.
-- 📘 [Package 2](https://github.com/neutrinomuon/FluxConserving): <b>FluxConserving</b> is a Python package that provides an implementation of a flux-conserving algorithm for rebinning 1D spectra, ensuring that the total flux is conserved across different bins.
+- 📘 [Package 1](https://github.com/neutrinomuon/pyintegralall): <b>pyintegralall</b> is a software package that provides a suite of numerical integration methods for a wide range of applications in physics, engineering, and mathematics.
+- 📘 [Package 2](https://github.com/neutrinomuon/pyfluxconserving): <b>pyfluxconserving</b> is a Python package that provides an implementation of a flux-conserving algorithm for rebinning 1D spectra, ensuring that the total flux is conserved across different bins.
 - 📘 [Package 3](https://github.com/neutrinomuon/PyKinematicalBroadening): <b>PyKinematicalBroadening</b> is a Python package that implements kinematical broadening of an input spectrum in velocity space.
 
 ## <img width=25 src='https://user-images.githubusercontent.com/8226984/227711181-657e2c9a-5f32-48e0-b618-a922c4fb10d4.png'>Connect with me
