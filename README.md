@@ -3,7 +3,7 @@
 - 👋 Hi, I’m @neutrinomuon - Jean Michel Silva de Miranda Gomes
 - 👀 I’m interested in Extragalactic Astrophysics and Computational Sciences
 - 🌱 I’m constinuously learning Astrophyscis, Python, Fortran, ...
-- 💞️ I’m looking to collaborate on Machine Learning projects
+- 💞️ I’m looking to collaborate on Optimisation, Machine Learning projects
 - 📫 How to easily reach me? With your hand or antineutrinomuon@gmail.com, jean@astro.up.pt
 
 <a href='https://anaconda.org/neutrinomuon/'><img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white"></a>
