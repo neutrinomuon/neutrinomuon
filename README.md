@@ -1,9 +1,9 @@
 ## <img width=25 src='https://user-images.githubusercontent.com/8226984/227712105-a9bdb9d1-62a8-400c-bc2d-4723de5f4e52.png'> Brief Description
 
 - 👋 Hi, I’m @neutrinomuon - Jean Michel Silva de Miranda Gomes
-- 👀 I’m interested in Extragalactic Astrophysics and Computational Sciences
-- 🌱 I’m constinuously learning Astrophyscis, Python, Fortran, ...
-- 💞️ I’m looking to collaborate on Optimisation, Machine Learning projects
+- 👀 I’m interested in Computational Sciences, Math, Physics and Astrophysics
+- 🌱 I’m continuously learning Algorithms, Physics, Astrophysics, Python, Fortran, ...
+- 💞️ I’m looking to collaborate on Optimisation, Machine Learning, Math, Physics projects
 - 📫 How to easily reach me? With your hand or antineutrinomuon@gmail.com, jean@astro.up.pt
 
 <a href='https://anaconda.org/neutrinomuon/'><img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white"></a>
