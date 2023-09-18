@@ -17,7 +17,7 @@
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-## <img width=25 src='https://user-images.githubusercontent.com/8226984/227711634-f9943192-2b39-4f8f-921a-00d6821fc7a9.png'> Top Programming Languages on My Repos
+## <img width=25 src='https://user-images.githubusercontent.com/8226984/227711634-f9943192-2b39-4f8f-921a-00d6821fc7a9.png'> Programming Languages on My Repos
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neutrinomuon&show_icons=true&theme=radical&count_private=true&hide=ruby,jupyter%20notebook,sed,makefile,assembly,html)
 
@@ -25,13 +25,12 @@
 
 ## <img width=25 src='https://user-images.githubusercontent.com/8226984/227711470-7284ef27-d818-4fb0-8a94-548eb734166e.jpg'> Projects Published
 
-<a href='https://www.python.org/'><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"> projects
+<a href='https://www.python.org/'><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
 
 - 📘 [Pack 1](https://github.com/neutrinomuon/TreeHue): <b>TreeHue</b> is an easy-to-use pure python script that permits to print the structure pf a projects with or without colors in python.
 
 <a href='https://www.python.org/'><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"> + 
 ![Fortran](https://img.shields.io/badge/Fortran-%23734F96.svg?style=for-the-badge&logo=fortran&logoColor=white)
-projects - Mixed languages
 
 - 📘 [Pack 1](https://github.com/neutrinomuon/PyIntegral): <b>PyIntegral</b> is a software package that provides a suite of numerical integration methods for a wide range of applications in physics, engineering, and mathematics.
 - 📘 [Pack 2](https://github.com/neutrinomuon/PyFluxconserving): <b>PyFluxconserving</b> is a Python package that provides an implementation of a flux-conserving algorithm for rebinning 1D spectra, ensuring that the total flux is conserved across different bins.
