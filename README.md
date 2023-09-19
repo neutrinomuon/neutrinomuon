@@ -27,15 +27,15 @@
 
 <a href='https://www.python.org/'><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
 
-- 📘 [Pack 1](https://github.com/neutrinomuon/TreeHue): <b>TreeHue</b> is an easy-to-use pure python script that permits to print the structure pf a projects with or without colors in python.
+- 📘 [TreeHue](https://github.com/neutrinomuon/TreeHue): is an easy-to-use pure python script that permits to print the structure pf a projects with or without colors in python.
 
 <a href='https://www.python.org/'><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"> + 
 ![Fortran](https://img.shields.io/badge/Fortran-%23734F96.svg?style=for-the-badge&logo=fortran&logoColor=white)
 
-- 📘 [Pack 1](https://github.com/neutrinomuon/PyIntegral): <b>PyIntegral</b> is a software package that provides a suite of numerical integration methods for a wide range of applications in physics, engineering, and mathematics.
-- 📘 [Pack 2](https://github.com/neutrinomuon/PyFluxconserving): <b>PyFluxconserving</b> is a Python package that provides an implementation of a flux-conserving algorithm for rebinning 1D spectra, ensuring that the total flux is conserved across different bins.
-- 📘 [Pack 3](https://github.com/neutrinomuon/PyKinematicalBroadening): <b>PyKinematicalBroadening</b> is a Python package that implements kinematical broadening of an input spectrum in velocity space.
-- 📘 [Pack 4](https://github.com/neutrinomuon/PyPhotometry): <b>PyPhotometry</b> is a versatile Python package that enables the calculation of photometric fluxes and magnitudes across multiple systems, leveraging a legacy Fortran foundation.
+- 📘 [PyIntegral](https://github.com/neutrinomuon/PyIntegral): is a software package that provides a suite of numerical integration methods for a wide range of applications in physics, engineering, and mathematics.
+- 📘 [PyFluxconserving](https://github.com/neutrinomuon/PyFluxconserving): is a Python package that provides an implementation of a flux-conserving algorithm for rebinning 1D spectra, ensuring that the total flux is conserved across different bins.
+- 📘 [PyKinematicalBroadening](https://github.com/neutrinomuon/PyKinematicalBroadening): is a Python package that implements kinematical broadening of an input spectrum in velocity space.
+- 📘 [PyPhotometry](https://github.com/neutrinomuon/PyPhotometry): is a versatile Python package that enables the calculation of photometric fluxes and magnitudes across multiple systems, leveraging a legacy Fortran foundation.
 
 ## <img width=25 src='https://user-images.githubusercontent.com/8226984/227711181-657e2c9a-5f32-48e0-b618-a922c4fb10d4.png'>Connect with me
 
