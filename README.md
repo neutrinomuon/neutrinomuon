@@ -27,7 +27,7 @@
 
 <a href='https://www.python.org/'><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
 
-- 📘 [TreeHue](https://github.com/neutrinomuon/TreeHue): is an easy-to-use pure python script that permits to print the structure pf a projects with or without colors in python.
+- <img width=15 src="https://raw.githubusercontent.com/neutrinomuon/TreeHue/main/figures/TreeHue.png"> [TreeHue](https://github.com/neutrinomuon/TreeHue): is an easy-to-use pure Python script that permits to the printing of the structure of projects with or without colours in Python.
 
 <a href='https://www.python.org/'><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"> + 
 ![Fortran](https://img.shields.io/badge/Fortran-%23734F96.svg?style=for-the-badge&logo=fortran&logoColor=white)
