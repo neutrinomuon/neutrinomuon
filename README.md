@@ -32,7 +32,7 @@
 <a href='https://www.python.org/'><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"> + 
 ![Fortran](https://img.shields.io/badge/Fortran-%23734F96.svg?style=for-the-badge&logo=fortran&logoColor=white)
 
-- 📘 [PyIntegral](https://github.com/neutrinomuon/PyIntegral): is a software package that provides a suite of numerical integration methods for a wide range of applications in physics, engineering, and mathematics.
+- <img width=15 src='https://raw.githubusercontent.com/neutrinomuon/PyIntegral/main/figures/PyIntegral.png'>[PyIntegral](https://github.com/neutrinomuon/PyIntegral): is a software package that provides a suite of numerical integration methods for a wide range of applications in physics, engineering, and mathematics.
 - 📘 [PyFluxconserving](https://github.com/neutrinomuon/PyFluxconserving): is a Python package that provides an implementation of a flux-conserving algorithm for rebinning 1D spectra, ensuring that the total flux is conserved across different bins.
 - 📘 [PyKinematicalBroadening](https://github.com/neutrinomuon/PyKinematicalBroadening): is a Python package that implements kinematical broadening of an input spectrum in velocity space.
 - 📘 [PyPhotometry](https://github.com/neutrinomuon/PyPhotometry): is a versatile Python package that enables the calculation of photometric fluxes and magnitudes across multiple systems, leveraging a legacy Fortran foundation.
