@@ -25,12 +25,12 @@
 
 ## <img width=25 src='https://user-images.githubusercontent.com/8226984/227711470-7284ef27-d818-4fb0-8a94-548eb734166e.jpg'> Projects Published
 
-<a href='https://www.python.org/'><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+<a href='https://www.python.org/'><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></a>
 
 - <img width=15 src="https://raw.githubusercontent.com/neutrinomuon/TreeHue/main/figures/TreeHue.png"> [TreeHue](https://github.com/neutrinomuon/TreeHue): is an easy-to-use pure Python script that permits to the printing of the structure of projects with or without colours in Python.
 - <img width=15 src="https://raw.githubusercontent.com/neutrinomuon/FileSeeker/main/figures/FileSeeker.png"> [FileSeeker](https://github.com/neutrinomuon/FileSeeker): is an easy-to-use pure Python script that allows you to search for a file within a specified directory and its subdirectories. It provides the ability to specify a search pattern and presents the results in a colour-coded format.
 
-<a href='https://www.python.org/'><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"> <img width=35 src='https://raw.githubusercontent.com/neutrinomuon/neutrinomuon/main/figures/plus.png'> ![Fortran](https://img.shields.io/badge/Fortran-%23734F96.svg?style=for-the-badge&logo=fortran&logoColor=white)
+<a href='https://www.python.org/'><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></a><img width=35 src='https://raw.githubusercontent.com/neutrinomuon/neutrinomuon/main/figures/plus.png'><a href='https://fortranwiki.org/fortran/show/Fortran+2008'><img src='https://img.shields.io/badge/Fortran-%23734F96.svg?style=for-the-badge&logo=fortran&logoColor=white'></a>
 
 - <img width=15 src='https://raw.githubusercontent.com/neutrinomuon/PyIntegral/main/figures/PyIntegral.png'>[PyIntegral](https://github.com/neutrinomuon/PyIntegral): is a software package that provides a suite of numerical integration methods for a wide range of applications in physics, engineering, and mathematics.
 - <img width=15 src='https://raw.githubusercontent.com/neutrinomuon/PyFluxconserving/main/figures/PyFluxconserving.png'> [PyFluxconserving](https://github.com/neutrinomuon/PyFluxconserving): is a Python package that provides an implementation of a flux-conserving algorithm for rebinning 1D spectra, ensuring that the total flux is conserved across different bins.
