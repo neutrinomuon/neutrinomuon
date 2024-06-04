@@ -5,7 +5,7 @@
 - 👀 I’m interested in Computational Sciences, Math, Physics and Astrophysics 🚀
 - 🌱 I’m continuously learning Algorithms, Physics, Astrophysics, Python, Fortran, ...
 - 💞️ I’m looking to collaborate on Optimisation, Machine Learning, Math, and Physics projects
-- 📫 How to easily reach me? Simply drop me a line at antineutrinomuon@gmail.com or jean@astro.up.pt.
+- 📫 How to easily reach me? Drop me a line at antineutrinomuon@gmail.com.
 
 <a href='https://anaconda.org/neutrinomuon/'><img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white"></a>
 <a href='https://www.python.org/'><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></a>
