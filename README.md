@@ -1,10 +1,10 @@
 ## <img width=25 src='https://user-images.githubusercontent.com/8226984/227712105-a9bdb9d1-62a8-400c-bc2d-4723de5f4e52.png'> Brief Description
 
 - 👋 Hi, I’m @neutrinomuon - Jean Gomes
-- 👩🏻‍💻 I am a full-stack developer with a strong emphasis on backend development
+- 👩🏻‍💻 I am a developer with a strong emphasis on backend development
 - 👀 I’m interested in Computational Sciences, Math, Physics and Astrophysics 🚀
-- 🌱 I’m continuously learning Algorithms, Physics, Astrophysics, Python, Fortran, ...
-- 💞️ I’m looking to collaborate on Optimisation, Machine Learning, Math, and Physics projects
+- 🌱 I’m continuously learning Algorithms, Physics, Astrophysics, Python, C, C++, Fortran, Quantum Computing ...
+- 💞️ I’m looking to collaborate on Optimisation, Machine Learning, Math, Physics and ... projects
 - 📫 How to easily reach me? Drop me a line at antineutrinomuon@gmail.com.
 
 <a href='https://anaconda.org/neutrinomuon/'><img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white"></a>
