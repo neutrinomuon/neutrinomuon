@@ -43,8 +43,6 @@
 
 - <a href='https://twitter.com/jean_m_gomes'>X (Former Twitter)</a>
 - <a href='https://www.linkedin.com/in/jean-michel-gomes/'>linkedin</a>
-- <a href='https://spectralsynthesis.org'> https://spectralsynthesis.org</a>
-- [Python Scripts](https://python.spectralsynthesis.org)
 
 ## 📈 Stats
 
