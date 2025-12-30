@@ -1,7 +1,7 @@
 ## <img width=25 src='https://user-images.githubusercontent.com/8226984/227712105-a9bdb9d1-62a8-400c-bc2d-4723de5f4e52.png'> Brief Description
 
 - 👋 Hi, I’m @neutrinomuon - Jean Gomes
-- 👩🏻‍💻 I am a developer with a strong emphasis on backend development
+- 👩🏻‍💻 I am a Physicist / Astronomer / Astrophysicist / Software Engineer Developer with a strong emphasis on backend development
 - 👀 I’m interested in Computational Sciences, Math, Physics and Astrophysics 🚀
 - 🌱 I’m continuously learning Algorithms, Physics, Astrophysics, Python, C, C++, Fortran, Quantum Computing ...
 - 💞️ I’m looking to collaborate on Optimisation, Machine Learning, Math, Physics and ... projects
