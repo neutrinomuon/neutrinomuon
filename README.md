@@ -22,7 +22,12 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neutrinomuon&show_icons=true&theme=radical&count_private=true&hide=ruby,jupyter%20notebook,sed,makefile,assembly,html)
 
-<!---  <img alt="Programming Languages"src='https://github-readme-stats.vercel.app/api/top-langs/?username=neutrinomuon&hide=Ruby,Jupyter%20Notebook,Assembly'> --->
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fortran/fortran-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
+</p>
 
 ## <img width=25 src='https://user-images.githubusercontent.com/8226984/227711470-7284ef27-d818-4fb0-8a94-548eb734166e.jpg'> Projects Published
 
