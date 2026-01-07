@@ -20,7 +20,7 @@
 
 ## <img width=25 src='https://user-images.githubusercontent.com/8226984/227711634-f9943192-2b39-4f8f-921a-00d6821fc7a9.png'> Programming Languages on My Repos
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neutrinomuon&show_icons=true&theme=radical&count_private=true&hide=ruby,jupyter%20notebook,sed,makefile,assembly,html)
+// ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neutrinomuon&show_icons=true&theme=radical&count_private=true&hide=ruby,jupyter%20notebook,sed,makefile,assembly,html)
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
